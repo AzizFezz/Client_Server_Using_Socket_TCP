@@ -52,4 +52,3 @@ user@linux:~/Project$ ./clienTCP <server_address> <port>
 ```
 
 Make sure to replace <port> and <server_address> with the appropriate values.
-Feel free to modify and adapt the scripts and source code based on your requirements.
